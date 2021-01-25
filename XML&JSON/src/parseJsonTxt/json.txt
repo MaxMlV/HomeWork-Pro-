@@ -1,0 +1,11 @@
+{
+    "name": "Max",
+    "surname": "Maleev",
+    "phone": "066-017-44-60",
+    "site": "https://github.com/MaxMlV",
+    "address": {
+         "country": "UA",
+         "city": "Kyiv",
+         "street": "abcd"
+    }
+}
